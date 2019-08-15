@@ -1,7 +1,57 @@
-#sonicImg {
-    width: 25vh;
-    height: 25vh;
+
+html {
+   scroll-behavior: smooth;
 }
-.card-body {
-    width: 100vh;
-}
+
+
+#img1 {
+    width:  max-content;
+    height: 600px;
+ 
+ }
+ 
+ #img2 {
+    width:  max-content;
+    height: 600px;
+ 
+ }
+ 
+ #img3 {
+    width:  max-content;
+    height: 600px;
+ 
+ }
+ 
+ #map {
+    width: 1250px;
+    height: 700px;
+ }
+ 
+ .card{
+ background-color: rgb(77, 77, 223);
+ }
+ 
+ .card2{
+    background-color:  rgb(255, 0, 0);
+ }
+ 
+ 
+ .card-title{
+    text-align: center;
+    text-emphasis: bold;
+ 
+ }
+ 
+ .card-text{
+    text-align: center;
+ }
+ 
+ .poli-img{
+    height: 150px;
+    width:250px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
